@@ -10,6 +10,7 @@ namespace xUnitTestDemo
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
